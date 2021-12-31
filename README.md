@@ -1,4 +1,2 @@
-# newdir
-
-new files
-hi
+# Calculator
+A simple calculator based on html css and vanilla js

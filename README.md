@@ -8,4 +8,6 @@ Preview:
 
 ![image](https://user-images.githubusercontent.com/68846562/147872384-33cf6e6c-de67-43e1-ab8b-1d997b2fea10.png)
 
-calcifun.netlify.app
+Demo:
+
+https://calcifun.netlify.app/

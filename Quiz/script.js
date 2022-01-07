@@ -117,6 +117,7 @@ submitbtn.addEventListener('click', ()=>{
     }
 
     else{
+        header.innerText = 'Result'
         body.innerHTML = `
         <h5 class="card-title text-center my-5"><b>You answered ${score}/${qlist.length} questions correctly</b></h5>
         <a href="#" class="btn btn-primary w-100 mt-5" onclick="location.reload()">Reload</a>
